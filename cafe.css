@@ -1,0 +1,25 @@
+@charset "UTF-8";
+body{
+
+    width: 800px;
+    margin: 0 auto;
+}
+h1{
+    width: 290px;
+    margin: auto;
+    text-align: center;
+}
+.CUP{
+    width: 400px;
+    float:left;
+    margin-right: 30px;
+}
+.RO{
+    float:left;
+}
+.SUP{
+    width: 400px;
+    position: relative;
+    top: -230px;
+    left: 400px;
+}
